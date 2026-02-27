@@ -1,0 +1,5 @@
+{
+  "name": "Spatiovisual Maze Race",
+  "description": "A real-time multiplayer maze game that tests your spatial orientation by rotating the world relative to your movement.",
+  "requestFramePermissions": []
+}
